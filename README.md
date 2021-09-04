@@ -1,6 +1,6 @@
 # Socket.io-CellGame-backend
 
-<!-- ![](socketgame.gif) -->
+![](socketgame.gif)
 
 ## Request Response Cycle
   
